@@ -83,6 +83,7 @@ sites:
       - html_markdownify
 
   - url: https://nosleepclub.eu/
+    ignore_error: true
     editors:
       - css_remove: media, img, script, noscript, style
       - html_url_canonicalize
