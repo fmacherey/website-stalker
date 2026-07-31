@@ -90,23 +90,53 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Jul 25, 2026
+### Jul 31, 2026 ###
 
 No incidents reported today.
 
-Jul 24, 2026
+### Jul 30, 2026 ###
+
+[Referral page not working correctly](https://status.personio.de/incidents/40rtz5z8v34y)
+
+**Resolved** - This incident has been resolved.
+ Jul 30, 16:12 CEST
+
+**Investigating** - The referral page within Recruiting is not working correctly. The team is investigating.
+ Jul 30, 16:04 CEST
+
+### Jul 29, 2026 ###
 
 No incidents reported.
 
-Jul 23, 2026
+### Jul 28, 2026 ###
 
 No incidents reported.
 
-Jul 22, 2026
+### Jul 27, 2026 ###
 
 No incidents reported.
 
-Jul 21, 2026
+### Jul 26, 2026 ###
+
+No incidents reported.
+
+### Jul 25, 2026 ###
+
+No incidents reported.
+
+### Jul 24, 2026 ###
+
+No incidents reported.
+
+### Jul 23, 2026 ###
+
+No incidents reported.
+
+### Jul 22, 2026 ###
+
+No incidents reported.
+
+### Jul 21, 2026 ###
 
 [Partial service disruption](https://status.personio.de/incidents/gjcq540x9ml1)
 
@@ -130,7 +160,7 @@ Please be aware that the remaining system is stable and running according to exp
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Jul 17, 13:41 CEST
 
-Jul 20, 2026
+### Jul 20, 2026 ###
 
 [Issue with place holders in offer documents](https://status.personio.de/incidents/wcd333420s7q)
 
@@ -146,54 +176,15 @@ Jul 20, 2026
 **Investigating** - Issue with place holders in offer documents. Some place holders may be empty or are filled out incorrectly. We are currently investigating the issue.
  Jul 20, 13:58 CEST
 
-Jul 19, 2026
+### Jul 19, 2026 ###
 
 No incidents reported.
 
-Jul 18, 2026
+### Jul 18, 2026 ###
 
 No incidents reported.
 
-Jul 17, 2026
-
-Jul 16, 2026
-
-No incidents reported.
-
-Jul 15, 2026
-
-No incidents reported.
-
-Jul 14, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/hj0zlkzpj8sl)
-
-**Resolved** - The fix implemented by Mailjet is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Jul 14, 09:07 CEST
-
-**Update** - Mailjet has resolved the issue on their end. New inbound applicant messages should be received again. We are continuing to investigate the messages which were not received during the impact period.
- Jul 13, 16:52 CEST
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
- Jul 13, 13:15 CEST
-
-**Investigating** - We are currently experiencing some issues with the Recruiting App. The following features are affected:
-\- Inbound applicant messages may not be received due to a technical issue with our partner Mailjet
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jul 13, 10:58 CEST
-
-Jul 13, 2026
-
-Jul 12, 2026
-
-No incidents reported.
-
-Jul 11, 2026
-
-No incidents reported.
+### Jul 17, 2026 ###
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
