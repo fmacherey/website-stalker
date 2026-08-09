@@ -3,6 +3,15 @@ Waldeck Freakquenz – Mit unglaublich viel Power!1!
  Welcome Home.
 ==========
 
+**Aktuelle Hinweise:**
+
+**WALDBRANDGEFAHR**
+Es ist trocken. Sehr trocken. Daher gilt:
+Kein Feuer, kein Kippenschnippen, keine Kerzen.
+Kein Campingkocher außerhalb der zentralen Kochstelle.
+Wir kochen leckeres Zeug und bunte Lichter haben wir auch genug :-)
+Seid bitte achtsam!
+
 [](https://www.waldeck-freakquenz.de/bands-2026/)
 
 [](https://www.waldeck-freakquenz.de/konsolencafe/)
@@ -11,17 +20,23 @@ Waldeck Freakquenz – Mit unglaublich viel Power!1!
 
 [](https://www.waldeck-freakquenz.de/tickets/)
 
+---
+
 BREAKING NEWS 2026
 ==========
 
 **13./14./15. AUGUST
 DREI TAGE FREAKQUENZ**
 
-[Stempeltickets sind JETZT am Start!](https://www.waldeck-freakquenz.de/tickets/)
+Kleine Änderungen im Programm jetzt live!
 
-**VORVERKAUF LÄUFT!
-GO!GO!GO!!1!**
+**VORVERKAU**f
+Damit wir planen können (und z.B. kein Essen wegschmeissen müssen).
+Kauft JETZT Tickets.
 <https://pretix.eu/waldeck/freakquenz-2026/>
+
+Stempeltickets Verkauf ist durch.
+Eventuell haben wir noch kleine Restbestände die ihr als Andenken gegen Spende am Festivalbüro mitnehmen könnt.
 
 15 Jahre Waldeck Freakquenz.
 Ihr wollt mehr? Ihr bekommt mehr!

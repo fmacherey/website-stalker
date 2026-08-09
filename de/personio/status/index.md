@@ -90,9 +90,72 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-### Jul 31, 2026 ###
+### Aug  9, 2026 ###
 
 No incidents reported today.
+
+### Aug  8, 2026 ###
+
+No incidents reported.
+
+### Aug  7, 2026 ###
+
+No incidents reported.
+
+### Aug  6, 2026 ###
+
+No incidents reported.
+
+### Aug  5, 2026 ###
+
+[Scheduled Maintenance](https://status.personio.de/incidents/28xn94jky8g9)
+
+**Completed** - The scheduled maintenance has been completed.
+ Aug  5, 00:00 CEST
+
+**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+ Aug  4, 22:00 CEST
+
+**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+ Aug  4, 14:06 CEST
+
+### Aug  4, 2026 ###
+
+[Login not working for some users](https://status.personio.de/incidents/g5l08b6dpjz2)
+
+**Resolved** - This incident has been resolved.
+ Aug  4, 15:41 CEST
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+ Aug  4, 15:26 CEST
+
+**Identified** - The issue has been identified and a fix is being implemented.
+ Aug  4, 15:04 CEST
+
+**Investigating** - The login is not working correctly for some users, they see an "invalid hostname" error. We are investigating the issue.
+ Aug  4, 12:12 CEST
+
+### Aug  3, 2026 ###
+
+No incidents reported.
+
+### Aug  2, 2026 ###
+
+No incidents reported.
+
+### Aug  1, 2026 ###
+
+No incidents reported.
+
+### Jul 31, 2026 ###
+
+No incidents reported.
 
 ### Jul 30, 2026 ###
 
@@ -119,72 +182,6 @@ No incidents reported.
 ### Jul 26, 2026 ###
 
 No incidents reported.
-
-### Jul 25, 2026 ###
-
-No incidents reported.
-
-### Jul 24, 2026 ###
-
-No incidents reported.
-
-### Jul 23, 2026 ###
-
-No incidents reported.
-
-### Jul 22, 2026 ###
-
-No incidents reported.
-
-### Jul 21, 2026 ###
-
-[Partial service disruption](https://status.personio.de/incidents/gjcq540x9ml1)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Jul 21, 08:44 CEST
-
-**Update** - A fix is being implemented. We expect to have the issue resolved by the end of today and apologize for the inconvenience.
- Jul 20, 10:09 CEST
-
-**Update** - Our engineers continue to implement a fix. We will keep you informed about the progress on this page.
- Jul 20, 08:39 CEST
-
-**Identified** - The issue has been identified. A fix is being currently implemented.
- Jul 17, 15:31 CEST
-
-**Investigating** - We are currently experiencing some issues with Personio Payroll:
-\- Approvals are currently blocked while we are investigating an issue affecting Personio Payroll
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jul 17, 13:41 CEST
-
-### Jul 20, 2026 ###
-
-[Issue with place holders in offer documents](https://status.personio.de/incidents/wcd333420s7q)
-
-**Resolved** - This incident has been resolved.
- Jul 20, 17:17 CEST
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
- Jul 20, 15:43 CEST
-
-**Identified** - The issue has been identified and we are implementing a fix.
- Jul 20, 15:19 CEST
-
-**Investigating** - Issue with place holders in offer documents. Some place holders may be empty or are filled out incorrectly. We are currently investigating the issue.
- Jul 20, 13:58 CEST
-
-### Jul 19, 2026 ###
-
-No incidents reported.
-
-### Jul 18, 2026 ###
-
-No incidents reported.
-
-### Jul 17, 2026 ###
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 

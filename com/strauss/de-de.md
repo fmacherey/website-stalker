@@ -38,9 +38,9 @@ Stark im Preis.
 
 [](https://www.strauss.com/de/de/bundhosen/stretch-bundhose-e-s-line-core-3165140-64331-1956.html?itemorigin=startseiteHW26)
 
-[neue Kollektion entdecken](https://www.strauss.com/de/de/e-s-line-core/)
+[neue Kollektion entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
 
-[jetzt entdecken](https://www.strauss.com/de/de/e-s-line-core/)
+[jetzt entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
 
 [](https://www.strauss.com/de/de/winter-arbeitsjacken/winterjacke-padded-e-s-line-core-3135580-64348-1957.html?itemorigin=startseiteHW26)
 
@@ -75,9 +75,9 @@ mit Fläche für Rückenprints
 
 [](https://www.strauss.com/de/de/westen/winterweste-padded-e-s-line-core-3140780-64347-1957.html?itemorigin=startseiteHW26)
 
-[neue Kollektion entdecken](https://www.strauss.com/de/de/e-s-line-core/)
+[neue Kollektion entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
 
-[jetzt entdecken](https://www.strauss.com/de/de/e-s-line-core/)
+[jetzt entdecken](https://www.strauss.com/de/de/e-s-line-core/?sort=recommendation)
 
 Alles für den Job:
 Profi-Arbeitskleidung vom Experten
@@ -88,39 +88,75 @@ Profi-Arbeitskleidung vom Experten
 
 [Trustpilot](https://de.trustpilot.com/review/strauss.com/de)
 
- \+3
-
  S1 1003 mid
+
+ ab 65,33 €
+
+ (m. MwSt.)
+
+ ab 54,90 € (ohne MwSt.)
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
 
- \+4
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
 
  S1 1003 mid
+
+ ab 65,33 €
+
+ (m. MwSt.)
+
+ ab 54,90 € (ohne MwSt.)
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
 
- \+3
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93161-685.html?itemorigin=startseiteHW26)
 
  S1 1003 mid
+
+ ab 65,33 €
+
+ (m. MwSt.)
+
+ ab 54,90 € (ohne MwSt.)
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
 
- \+4
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
 
  S1 1003 mid
+
+ ab 65,33 €
+
+ (m. MwSt.)
+
+ ab 54,90 € (ohne MwSt.)
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
 
- \+3
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93163-1983.html?itemorigin=startseiteHW26)
 
  S1 1003 mid
+
+ ab 65,33 €
+
+ (m. MwSt.)
+
+ ab 54,90 € (ohne MwSt.)
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
 
- \+4
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
 
  S1 1003 mid
+
+ ab 65,33 €
+
+ (m. MwSt.)
+
+ ab 54,90 € (ohne MwSt.)
+
+[](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
 
 [](https://www.strauss.com/de/de/sicherheitsschuhe-s1/s1-sicherheitsschuhe-strauss-1003-mid-1101760-93164-422.html?itemorigin=startseiteHW26)
 
@@ -170,13 +206,13 @@ Schutzpaket
 
 [](https://www.strauss.com/de/de/pullover-troyer-damen/troyer-thermo-stretch-e-s-trail-damen-3121970-71382-1960.html?itemorigin=startseiteHW26)
 
- \+1
+ \+3
 
  Troyer thermo stretch
 
 [](https://www.strauss.com/de/de/pullover-troyer/troyer-thermo-stretch-e-s-trail-3121960-71332-1960.html?itemorigin=startseiteHW26)
 
- \+2
+ \+4
 
  Troyer thermo stretch
 
@@ -262,7 +298,7 @@ zu den Produkten
  umkompliziert gestalten & bestellen
 ---
 
- über 500 verüfgbare Motive & Motivupload
+ über 500 verfügbare Motive & Motivupload
 ---
 
  mehr bestellen, mehr sparen
@@ -271,7 +307,7 @@ zu den Produkten
  umkompliziert gestalten & bestellen
 ---
 
- über 500 verüfgbare Motive & Motivupload
+ über 500 verfügbare Motive & Motivupload
 ---
 
 Druck: Easytransfer
@@ -288,6 +324,43 @@ Stick: Direkteinstickung
  Neuzugänge
 ---
 
+ STRAUSS X *MLB™*
+---
+
+[](https://www.strauss.com/de/de/mlb-x-strauss/)
+
+ Herren
+---
+
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
+
+ Damen
+---
+
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Damen/)
+
+ Kinder
+---
+
+[](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/)
+
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
+
+[Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Herren/)
+
+ \*KI-generierter Hintergrund
+
+ Neuzugänge
+---
+
+ Neuzugänge
+---
+
+ STRAUSS X *MLB™*
+---
+
+[](https://www.strauss.com/de/de/mlb-x-strauss/)
+
  Herren
 ---
 
@@ -312,6 +385,11 @@ Stick: Direkteinstickung
 
  Neuzugänge
 ---
+
+ STRAUSS X *MLB™*
+---
+
+[](https://www.strauss.com/de/de/mlb-x-strauss/)
 
  Herren
 ---
@@ -338,6 +416,11 @@ Stick: Direkteinstickung
  Neuzugänge
 ---
 
+ STRAUSS X *MLB™*
+---
+
+[](https://www.strauss.com/de/de/mlb-x-strauss/)
+
  Herren
 ---
 
@@ -357,6 +440,7 @@ Stick: Direkteinstickung
 
 [Neuheiten entdecken](https://www.strauss.com/de/de/f/neuheiten/Herren_Damen_Kinder:Kinder/)
 
+*
 *
 *
 *
